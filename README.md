@@ -4,5 +4,6 @@ Python keylogger.
 
 # Prerequisites
 ## Install pynput
-
-$ sudo apt install python3-pynput
+``` 
+sudo apt install python3-pynput
+``` 
