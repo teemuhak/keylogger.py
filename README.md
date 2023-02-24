@@ -6,11 +6,9 @@ Python keylogger.
 ## Install pynput
 ``` 
 sudo apt install python3-pynput
-
 ``` 
 ## Make a keylogs.txt file
 
 ``` 
 touch keylogs.txt
-
 ``` 
